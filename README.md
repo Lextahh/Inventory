@@ -23,15 +23,16 @@ This project helps users manage, track, and organize inventory data such as item
 
 ## 💻 Installation Instructions
 1. Clone the repository:
-   ```bash
+  
    git clone https://github.com/Lextahh/Inventory.git
-````
 
 2. Open the project folder in your IDE (e.g., Visual Studio or VS Code).
 3. Make sure all dependencies are installed (if applicable).
 4. Run the program to start managing inventory records.
 
+
 ## 🚀 Usage
+
 
 1. Launch the Inventory Application.
 2. Add new inventory items using the input fields.
@@ -67,7 +68,7 @@ You may modify or reuse this code for learning activities.
 
 
 
-### 📌 Repository Link
+## 📌 Repository Link
 
 [https://github.com/Lextahh/Inventory](https://github.com/Lextahh/Inventory)
 
