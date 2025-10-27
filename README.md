@@ -1,9 +1,4 @@
-Here’s a complete **README.md template** you can copy and paste into your GitHub repository — it’s written in clean Markdown format and follows the sections your instructor provided.
-You can edit the placeholders to match your own project details (like your name, description, and screenshots).
 
----
-
-````markdown
 # Inventory Application
 
 ## 📘 Project Title
@@ -70,15 +65,10 @@ Console.WriteLine("Welcome to the Inventory Application!");
 This project is for educational purposes only and is not licensed for commercial use.
 You may modify or reuse this code for learning activities.
 
----
+
 
 ### 📌 Repository Link
 
 [https://github.com/Lextahh/Inventory](https://github.com/Lextahh/Inventory)
 
-```
 
----
-
-Would you like me to customize this README with your exact **partner’s name and project details** (for example, if your app has a login feature or a database)? I can make it more specific to your actual project.
-```
