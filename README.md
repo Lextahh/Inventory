@@ -1,63 +1,84 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
+Here’s a complete **README.md template** you can copy and paste into your GitHub repository — it’s written in clean Markdown format and follows the sections your instructor provided.
+You can edit the placeholders to match your own project details (like your name, description, and screenshots).
 
-## aboutr
+---
 
-<p align="center">
-<a href="https://github.com/laravel/framework/actions"><img src="https://github.com/laravel/framework/workflows/tests/badge.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
-</p>
+````markdown
+# Inventory Application
 
-## About Laravel
+## 📘 Project Title
+**Inventory Application**
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
+## 📝 Description / Overview
+The **Inventory Application** is a simple system developed as part of our Midterm Examination to demonstrate version control, collaboration, and GitHub usage.  
+This project helps users manage, track, and organize inventory data such as item names, quantities, and prices efficiently.
 
-- [Simple, fast routing engine](https://laravel.com/docs/routing).
-- [Powerful dependency injection container](https://laravel.com/docs/container).
-- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
-- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
-- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
-- [Robust background job processing](https://laravel.com/docs/queues).
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
+## 🎯 Objectives
+- To apply Git and GitHub commands for collaborative development.  
+- To create a functional system that simulates basic inventory management.  
+- To practice using branches, merges, commits, and remote repository management.  
+- To improve teamwork and version control understanding.
 
-Laravel is accessible, powerful, and provides tools required for large, robust applications.
+## ⚙️ Features / Functionality
+- Add, edit, and delete inventory items.  
+- View current stock and item details.  
+- Save and update inventory data.  
+- Simple and user-friendly interface.  
+- Git-based version control and collaboration setup.
 
-## Learning Laravel
+## 💻 Installation Instructions
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Lextahh/Inventory.git
+````
 
-Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
+2. Open the project folder in your IDE (e.g., Visual Studio or VS Code).
+3. Make sure all dependencies are installed (if applicable).
+4. Run the program to start managing inventory records.
 
-You may also try the [Laravel Bootcamp](https://bootcamp.laravel.com), where you will be guided through building a modern Laravel application from scratch.
+## 🚀 Usage
 
-If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains thousands of video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
+1. Launch the Inventory Application.
+2. Add new inventory items using the input fields.
+3. Edit or delete existing entries as needed.
+4. Save changes to update the database or file records.
+5. Review inventory summaries from the dashboard or report section.
 
-## Laravel Sponsors
+## 🖼️ Screenshots or Code Snippets
 
-We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the [Laravel Partners program](https://partners.laravel.com).
+*(Insert your own screenshots here after uploading them to the repo or an image host)*
 
-### Premium Partners
+Example:
 
-- **[Vehikl](https://vehikl.com)**
-- **[Tighten Co.](https://tighten.co)**
-- **[Kirschbaum Development Group](https://kirschbaumdevelopment.com)**
-- **[64 Robots](https://64robots.com)**
-- **[Curotec](https://www.curotec.com/services/technologies/laravel)**
-- **[DevSquad](https://devsquad.com/hire-laravel-developers)**
-- **[Redberry](https://redberry.international/laravel-development)**
-- **[Active Logic](https://activelogic.com)**
+```markdown
+![InventoryApp Screenshot](images/inventory_dashboard.png)
+```
 
-## Contributing
+Or show sample code:
 
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
+```csharp
+Console.WriteLine("Welcome to the Inventory Application!");
+```
 
-## Code of Conduct
+## 👥 Contributors
 
-In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
+* **Lexter  Aberin**
+* **Sherlee Annejelic Dulay**
 
-## Security Vulnerabilities
+## 📄 License
 
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
+This project is for educational purposes only and is not licensed for commercial use.
+You may modify or reuse this code for learning activities.
 
-## License
+---
 
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+### 📌 Repository Link
+
+[https://github.com/Lextahh/Inventory](https://github.com/Lextahh/Inventory)
+
+```
+
+---
+
+Would you like me to customize this README with your exact **partner’s name and project details** (for example, if your app has a login feature or a database)? I can make it more specific to your actual project.
+```
