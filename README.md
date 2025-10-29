@@ -19,7 +19,7 @@ This project helps users manage, track, and organize inventory data such as item
 - View current stock and item details.  
 - Save and update inventory data.  
 - Simple and user-friendly interface.  
-- Git-based version control and collaboration setup.
+
 
 ## Installation Instructions
 1. Clone the repository:
