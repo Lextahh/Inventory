@@ -38,7 +38,7 @@ This project helps users manage, track, and organize inventory data such as item
 2. Add new inventory items using the input fields.
 3. Edit or delete existing entries as needed.
 4. Save changes to update the database or file records.
-5. Review inventory summaries from the dashboard or report section.
+
 
 ## Screenshots or Code Snippets
 
