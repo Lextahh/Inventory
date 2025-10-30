@@ -42,9 +42,8 @@ This project helps users manage, track, and organize inventory data such as item
 
 ## Screenshots or Code Snippets
 
-*(Insert your own screenshots here after uploading them to the repo or an image host)*
-
-Example:
+### Category Page
+### Products Page
 
 ```markdown
 ![InventoryApp Screenshot](images/inventory_dashboard.png)
