@@ -1,11 +1,8 @@
 
-# Inventory Application
-
-## Project Title
-**Inventory Application**
+# Inventory System
 
 ## Overview
-The **Inventory Application** is a simple system developed as part of our Midterm Examination to demonstrate version control, collaboration, and GitHub usage.  
+The **Inventory System** is a simple system developed as part of our Midterm Examination to demonstrate version control, collaboration, and GitHub usage.  
 This project helps users manage, track, and organize inventory data such as item names, quantities, and prices efficiently.
 
 ## Objectives
