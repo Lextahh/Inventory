@@ -46,6 +46,7 @@ This project helps users manage, track, and organize inventory data such as item
 ![Category Page](https://github.com/Lextahh/Inventory/blob/main/images/category_page.png?raw=true)
 
 ### Products Page
+![Products Page](https://github.com/Lextahh/Inventory/blob/main/images/products.png?raw=true)
 
 ```markdown
 ![InventoryApp Screenshot](images/inventory_dashboard.png)
