@@ -40,7 +40,7 @@ This project helps users manage, track, and organize inventory data such as item
 4. Save changes to update the database or file records.
 
 
-## Screenshots or Code Snippets
+## Screenshots of the Inventory System
 
 ### Category Page
 ![Category Page](https://github.com/Lextahh/Inventory/blob/main/images/category_page.png?raw=true)
@@ -48,15 +48,6 @@ This project helps users manage, track, and organize inventory data such as item
 ### Products Page
 ![Products Page](https://github.com/Lextahh/Inventory/blob/main/images/products.png?raw=true)
 
-```markdown
-![InventoryApp Screenshot](images/inventory_dashboard.png)
-```
-
-Or show sample code:
-
-```csharp
-Console.WriteLine("Welcome to the Inventory Application!");
-```
 
 ## Contributors
 
